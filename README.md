@@ -1,8 +1,8 @@
 ---
-title: Molae Sangja
-emoji: ⚡
+title: molae sangja
+emoji: 🪣
 colorFrom: yellow
-colorTo: purple
+colorTo: yellow
 sdk: gradio
 sdk_version: 5.8.0
 app_file: app.py
