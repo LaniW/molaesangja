@@ -9,5 +9,3 @@ app_file: app.py
 pinned: false
 short_description: English-to-Korean translation tool with prompt engineering.
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
